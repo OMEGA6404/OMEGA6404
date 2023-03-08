@@ -3,14 +3,6 @@
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
- <h4 align="center"> Pronouns: He/Him </h4>
-	
-<dt>
-            <p align="center">
-        <a href="https://www.youtube.com/@OMEGA_GD?sub_confirmation=1">
-  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
-        </dt>
- 
  <p align="center"> <img src="https://img.shields.io/badge/Discord-OMəGA_%236400-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
 	
 <p align="center">
@@ -31,23 +23,7 @@
   <h3 align="center">Best 7th grader in Robious Middle School</h3>
 	
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+three+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Bambi+stop+stealing+my+profile!+%F0%9F%98%A0" alt="Typing SVG" /></a>
-	  
-- 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
-
-- 🌱 I’m currently learning **DC.js, C and PHP**
-
-- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@OMEGA_GD)
-
-- 🤝 I’m looking for help with **My Github Readme**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **Jackguiveroulie@gmail.com**
-
-- ⚡ Fun fact **I can solve a Rubix cube**
-	  
-- 🖥️ Our Discord Server 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+three+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Bambi+stop+stealing+my+profile!+%F0%9F%98%A0" alt="Typing SVG" /></a> 
 
 [![Join us on Discord](https://invidget.switchblade.xyz/xC9q4Fj2cR)](https://discord.gg/xC9q4Fj2cR) 
 	
